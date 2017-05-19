@@ -1,9 +1,3 @@
-import React, {Component} from 'react';
+import Example from './components/Example';
 
-export default class ExampleApp extends Component {
-  render () {
-    return (
-      <div>Example</div>
-    );
-  }
-}
+export default Example;
